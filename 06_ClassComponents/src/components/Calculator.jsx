@@ -1,7 +1,7 @@
 import { Component } from "react";
 
 class Calculator extends Component{
-    //Firs step
+    //First step
     constructor(props){
         super(props)
         this.state = {

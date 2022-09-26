@@ -1,4 +1,4 @@
-import Calculator from "./Calculator"
+import Calculator from "./CalculatorFunctional"
 import Header from "./Header"
 
 function App() {
